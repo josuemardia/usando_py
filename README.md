@@ -1,2 +1,2 @@
 # usando_py
-practicando python
+ practicando con python
