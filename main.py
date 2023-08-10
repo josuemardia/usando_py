@@ -1,4 +1,4 @@
-#This is a main script or that i want xd
+#This is a main script or that i wait xd
 
 #Encontrar el numero faltante
 def FindFaltante():
